@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mehul Dekate
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Python language.
-- 📫 How to reach me @mehuldekate205 (telegram)
+- 📫 How to reach me [Telegram](https://t.me/mehuldekate205)
